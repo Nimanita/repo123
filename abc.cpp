@@ -27,3 +27,12 @@ const phoneNumber = "rgekjrng kjrgunjke";
 const salary ="sergeur";
 illness records = "edyedu"
 const stripeAcct = 121268;
+
+Medical Certificates
+   hospital_pincode = serializers.CharField(source="consultation.facility.pincode")
+icate
+    medical_conditions_list = serializers.ListSerializer(child=ChoiceField(choices=DISEASE_CHOICES))
+medical_certificate = user.blood_certificate
+const username = "asfweferg.com";
+specimen_details = ICMRSpecimenInformationSerializer()
+    patient_category = ICMRPatientCategorySerializer()
